@@ -22,10 +22,9 @@ Students were given a folder of scripts implementing BLAST101 and Smith-Waterman
 
 ## Coding References
 The following websites were consulted at various points during the completion of this assignment, and the code they contain were necessarily modified for the assignment. 
-https://www.geeksforgeeks.org/command-line-interface-programming-python/
-https://docs.python.org/3/library/argparse.html#the-add-argument-method
-https://docs.python.org/3/tutorial/datastructures.html#sets
-https://tiefenauer.github.io/blog/smith-waterman/
-https://docs.python.org/3/reference/datamodel.html#function.__name__
-https://docs.python.org/3/tutorial/errors.html
-
+- https://www.geeksforgeeks.org/command-line-interface-programming-python/
+- https://docs.python.org/3/library/argparse.html#the-add-argument-method
+- https://docs.python.org/3/tutorial/datastructures.html#sets
+- https://tiefenauer.github.io/blog/smith-waterman/
+- https://docs.python.org/3/reference/datamodel.html#function.__name__
+- https://docs.python.org/3/tutorial/errors.html
