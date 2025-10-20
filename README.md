@@ -14,7 +14,7 @@ The focus of this assignment was two-fold:
 Students were given a folder of scripts implementing BLAST101 and Smith-Waterman algorithms to work around and through to establish the CLI and write the application tests. As I am not the author of this code, I am not including it in this repository.
 
 ### Authored scripts
-- The file to execute the script is final_ba_code.py
+- The file to execute the script is final_ba_script.py
 - The file containing extra functions for the command_line interface is ui_script.py
 - test_script.py contains the functions for testing the command line interface, the BLAST analysis, and the Smith-Waterman analysis. 
 
